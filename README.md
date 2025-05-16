@@ -43,6 +43,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Saurabh-2607&icon=0&color=0)](https://visitcount.itsvg.in)
-![Saurabh-2607's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-2607&theme=highcontrast&hide_border=true)
 ![Saurabh-2607's Stats](https://github-readme-stats.vercel.app/api?username=Saurabh-2607&theme=highcontrast&show_icons=true&hide_border=true&count_private=true)
+![Saurabh-2607's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Saurabh-2607&theme=highcontrast&hide_border=true)
 
